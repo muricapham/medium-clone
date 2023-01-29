@@ -6,9 +6,17 @@
     "start": "next start"
   },
   "dependencies": {
+    "@sanity/client": "^4.0.1",
+    "@sanity/image-url": "^1.0.2",
+    "@sanity/vision": "^3.2.4",
     "next": "latest",
+    "next-sanity": "^4.1.2",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-hook-form": "^7.42.1",
+    "react-portable-text": "^0.6.0",
+    "sanity": "^3.2.4",
+    "styled-components": "^5.3.6"
   },
   "devDependencies": {
     "@types/node": "18.11.3",
